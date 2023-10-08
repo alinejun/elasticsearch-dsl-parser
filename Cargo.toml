@@ -1,0 +1,14 @@
+[package]
+name = "elasticsearch-dsl-parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["zhj <1239921290@qq.com>"]
+license = "Apache-2.0"
+keywords = ["elasticsearch", "elastic","dsl","parser"]
+description = "Complete ES DSL syntax parsing."
+documentation = "https://docs.rs/elasticsearch-dsl-parser"
+repository = "https://github.com/alinejun/elasticsearch-dsl-parser.git"
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
